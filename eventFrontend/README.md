@@ -23,7 +23,11 @@ This is a meeting management application built using React.js (vite) that allows
 -   Responsive design for seamless mobile and desktop experience.
    
 -   Analytics tracking for link clicks.
-    
+
+## ⚙️ Environment Variables (.env)
+### Create a .env file in root directory with these variables:
+- VITE_URL=your_backend_api_url
+
 
 ## Tech Stack
 

@@ -1,4 +1,4 @@
-# linkTree Backend Project 
+# EventManagement Backend Project 
 
 ## Prerequisites  
 Before setting up the project, make sure you have the following installed:  
@@ -7,6 +7,12 @@ Before setting up the project, make sure you have the following installed:
 - [Git](https://git-scm.com/) (For version control)  
 
 ---
+## Create a .env file in root directory with these variables:
+### MongoDB Configuration
+- DATABASE=database_connection_string
+- DATABASE_PASSWORD=
+- JWT_KEY=
+- PORT=
 
 ## 📦 Install Dependencies
 
